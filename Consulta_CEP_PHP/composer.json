@@ -1,0 +1,8 @@
+{
+  "name":"jmdev/viacep",
+  "autoload": {
+    "psr-4": {
+      "App\\":"app/"
+    }
+  }
+}
